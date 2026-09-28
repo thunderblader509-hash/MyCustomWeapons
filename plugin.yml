@@ -1,1 +1,8 @@
+name: MyCustomWeapons
+version: 1.0.0
+main: com.zenuxs.customweapons.CustomWeapons
+api-version: '1.21'
+commands:
+  customweapons:
+    description: Custom Weapons Command
 
